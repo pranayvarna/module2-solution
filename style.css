@@ -33,7 +33,7 @@ padding:20px;
 padding:10px;
 }
 .cl1,.cl2,.cl3{
-border:5px solid black;
+border:1px solid black;
 padding:10px;
 padding-top:0px;
 padding-right:0px;
@@ -47,8 +47,8 @@ height:250px;
 position:relative;
 padding:4px;
 margin:0px;
-border-left:5px solid black;
-border-bottom:5px solid black;
+border-left:1px solid black;
+border-bottom:1px solid black;
 fit-content(100%);
 font-size:125%;
 left:60%;
@@ -94,15 +94,15 @@ padding:10px;
 padding-top:0px;
 padding-right:0px;
 font-size:100%;
-border:5px solid black;
+border:1px solid black;
 height:150px;
 }
 
 .title1,.title2,.title3{
 padding:10px;
 position:relative;
-border-left:5px solid black;
-border-bottom:5px solid black;
+border-left:1px solid black;
+border-bottom:1px solid black;
 left:70%;
 width:30%;
 font-size:125%;
@@ -138,7 +138,7 @@ width:100%;
 padding-right:5px;
 }
 .cl1,.cl2,.cl3{
-border:5px solid black;
+border:1px solid black;
 padding:10px;
 padding-top:0px;
 padding-right:0px;
@@ -152,8 +152,8 @@ height:25%;
 position:relative;
 padding:4px;
 margin:0px;
-border-left:5px solid black;
-border-bottom:5px solid black;
+border-left:1px solid black;
+border-bottom:1px solid black;
 fit-content(100%);
 font-size:125%;
 left:60%;
